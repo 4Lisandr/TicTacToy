@@ -1,4 +1,7 @@
 package com.github.a4lisandr.tictactoy;
+/**
+ * 19.09.2019 - Start of development
+ */
 
 import android.os.Bundle;
 
