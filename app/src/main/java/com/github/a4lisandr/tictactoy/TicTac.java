@@ -1,6 +1,7 @@
 package com.github.a4lisandr.tictactoy;
 /**
  * 19.09.2019 - Start of development
+ * Today is cold weather...
  */
 
 import android.os.Bundle;
